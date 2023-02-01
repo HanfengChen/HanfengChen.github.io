@@ -37,10 +37,10 @@ remote_theme: pmarsceill/just-the-docs
 # Include pages into processing
 include: ["_pages", "_posts"]
 
-# 
+# Disable search
 search_enabled: false
 
-# 
+# Color (default light)
 color_scheme: dark
 
 # Exclude from processing.
