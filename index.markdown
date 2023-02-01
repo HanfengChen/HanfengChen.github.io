@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Home 
+nav_order: 1
 ---
+
+I am a PhD student in economics at [Uppsala University](https://www.nek.uu.se/?languageId=1). 
