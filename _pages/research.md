@@ -9,7 +9,7 @@ nav_order: 2
 
 
 ## Work in progress
-
+<br />
 
 **Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power** (with [Matthias Hänsel](https://www.hhs.se/en/persons/h/hansel-matthias-emmanuel/) and [Hiep Nguyen](https://www.katalog.uu.se/empinfo/?id=N19-1602)) [Draft coming soon] <br /> 
 
