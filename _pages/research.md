@@ -23,6 +23,5 @@ We extend the Real Business Cycle model in Niepelt (2022) to analyze the risk to
 ## Work in progress
 
 **Banks, Nonbanks and Monetary Policy** <br />
-
 **The Deposit Channel of Monetary Policy in the Euro Area** (with [Maria Elena Filippin](https://www.katalog.uu.se/empinfo/?id=N20-1155)) <br />
 
