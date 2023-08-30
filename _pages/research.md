@@ -11,7 +11,7 @@ nav_order: 2
 ## Working papers
 <br />
 
-[**Unveiling the Interplay between Central Bank Digital Currency and Bank Deposits**](../assets/papers/CBDC_CF.pdf) (with [Maria Elena Filippin](https://www.katalog.uu.se/empinfo/?id=N20-1155))  <br /> 
+[**Unveiling the Interplay between Central Bank Digital Currency and Bank Deposits**](../assets/papers/CBDC_CF.pdf) (with [Maria Elena Filippin](https://www.katalog.uu.se/empinfo/?id=N20-1155)) [arXiv](https://arxiv.org/abs/2308.10359) <br /> 
 
 We extend the Real Business Cycle model in Niepelt (2022) to analyze the risk to financial stability following the introduction of a central bank digital currency (CBDC). CBDC competes with commercial bank deposits as households' source of liquidity. We consider different degrees of substitutability between payment instruments and review the equivalence result in Niepelt (2022) by introducing a collateral constraint banks must respect when borrowing from the central bank. When CBDC and deposits are perfect substitutes, the central bank can offer loans to banks that render the introduction of CBDC neutral to the real economy. We show that the optimal level of the central bank's lending rate depends on the restrictiveness of the collateral constraint: the tighter it is, the lower the loan rate the central bank needs to post. However, when CBDC and deposits are imperfect substitutes, the central bank cannot make banks indifferent to the competition from CBDC. It follows that the introduction of CBDC has real effects on the economy.
 <br />
