@@ -15,7 +15,7 @@ On this page you will find a collection of links to materials that are (hopefull
 - [Scientific Communication with Quarto](https://kazuyanagimoto.com/blog/2023/06/10/quarto_com_model/) (Kazuharu Yanagimoto)
 - [An introduction to machine learning and neutral networks](https://github.com/jmarbet/usi-intro-machine-learning) (Joël Marbet)
 - [Solve rational expectation models with linear time iteration](https://julienpascal.github.io/post/lineartimeiteration/) (Julien Pascal)
-- [Solve a real business cycle model with linear time iteration in Julia](https://github.com/HariharanJayashankar/LinearTimeIteration.jl) (Hariharan Jayashankar)
+[Solve a real business cycle model with linear time iteration in Julia](https://github.com/HariharanJayashankar/LinearTimeIteration.jl) (Hariharan Jayashankar)
 
 
 
