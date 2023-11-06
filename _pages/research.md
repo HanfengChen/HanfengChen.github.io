@@ -22,6 +22,6 @@ Joint with [Maria Elena Filippin](https://www.katalog.uu.se/empinfo/?id=N20-1155
 
 ## Work in progress
 
-**Banks, Nonbanks and Monetary Policy** <br />
+**Money and Banking in the Shadows: Monetary Policy and (Non)bank Finance** <br />
 **The Deposit Channel of Monetary Policy in the Euro Area** (with [Maria Elena Filippin](https://www.katalog.uu.se/empinfo/?id=N20-1155)) <br />
 
