@@ -12,7 +12,7 @@ I am a PhD student in economics at [Uppsala University](https://www.nek.uu.se/?l
 
 
 ## Research
-My research focuses on macroeconomics, with particular interest in monetary policy and the market power of financial intermediaries. 
+My research focuses on macroeconomics, with particular interest in monetary policy, market power, and (non)bank financial intermediation. 
 
 ## Contacts
 Email: [hanfeng.chen@nek.uu.se](mailto:hanfeng.chen@nek.uu.se) <br />
