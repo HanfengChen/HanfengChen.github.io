@@ -23,5 +23,5 @@ Joint with [Matthias Hänsel](https://www.hhs.se/en/persons/h/hansel-matthias-em
 ## Work in progress
 
 **Money and Banking in the Shadows: Monetary Policy and (Non)bank Finance** <br />
-**The Deposit Channel of Monetary Policy in the Euro Area** (with [Maria Elena Filippin](https://www.mefilippin.com/)) <br />
+**The Deposits Channel of Monetary Policy in the Euro Area** (with [Maria Elena Filippin](https://www.mefilippin.com/)) <br />
 
