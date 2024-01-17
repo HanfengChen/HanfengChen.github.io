@@ -23,7 +23,7 @@ Joint with [Maria Elena Filippin](https://www.mefilippin.com/) [[Paper](../asset
 ## Work in progress
 
 **Money and Banking in the Shadows: Monetary Policy and (Non)bank Finance** <br />
-[Draft coming soon]
+[Draft coming soon] [[Slides](../assets/papers/banks_nonbanks_slides.pdf)]
 
 *Abstract*: I study the transmission of monetary policy through banks and nonbank financial intermediaries (NBFIs) in the United States. First, I construct a measure of nonbank lending that takes into account the complex linkages within the NBFI sector. Then, I show empirically that following a surprise monetary policy tightening the households substitute away from bank deposits and towards nonbank-created liquidity. Bank lending to firms contracts while NBFIs' provision of credit expands. Thus, the households' portfolio rebalancing diminish the impact of monetary policy on economic activity. To rationalize the empirical findings, I build a New-Keynesian model with banks and investment funds that provide liquidity to households and lending to firms. The model captures the two channels of monetary transmission in the literature where the households' portfolio choices take the central stage: "the deposits channel" and the "shadow banking channel." Through these channels, the model replicates the portfolio shifts and increased nonbank finance observed in the data. The presence of investment funds dampens the efficacy of monetary policy in the model. In a counterfactual exercise, I study the implications of banking concentration for monetary transmission and the deposits/shadow banking channels. <br />
 
