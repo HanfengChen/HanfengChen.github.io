@@ -11,7 +11,7 @@ nav_order: 2
 ## Working papers
 
 **Monetary Policy Transmission, Central Bank Digital Currency, and Bank Market Power**<br /> 
-Joint with [Matthias Hänsel](https://www.hhs.se/en/persons/h/hansel-matthias-emmanuel/) and [Hiep Nguyen](https://www.katalog.uu.se/empinfo/?id=N19-1602) [[Paper](../assets/papers/mp_cbdc_bankpower.pdf)] <br /> 
+Joint with [Matthias Hänsel](https://mhaense1.github.io/) and [Hiep Nguyen](https://www.katalog.uu.se/empinfo/?id=N19-1602) [[Paper](../assets/papers/mp_cbdc_bankpower.pdf)] <br /> 
 
 *Abstract*: Interest rates on new central bank digital currencies (CBDCs) can be expected to enter the monetary policy toolkit soon. Using an extended Sidrauski (1967) model featuring an oligopsonistic banking sector, we study the complex transmission of interest rates on CBDC, which generally involve both direct and indirect effects. This is because a CBDC rate cut does not only affect the rate on the CBDC itself, but also induces the non-competitive deposit providers to adjust their spreads, as the new substitute for their products becomes relatively less attractive. A calibration exercise suggests that the indirect effects depend strongly on the sources of deposit market power: If driven by high concentration, they substantially amplify the aggregate effects of the CBDC policy rate, both in response to transitory shocks as well as regarding its long-run welfare effects. This contrasts them with policies directed at the banking sector which are weakened by a less competitive deposit market. <br /> 
 
