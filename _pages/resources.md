@@ -7,7 +7,7 @@ nav_order: 4
 
 # Resources
 
-On this page you will find a collection of links to materials that are (hopefully) useful to PhD students. In the future, I plan to expand this section with notes on solving basic macroeconomic models (real business cycle, New-Keynesian, heterogeneous agents) in Julia.
+On this page you will find a collection of links to materials that are (hopefully) useful to PhD students. 
 
 ## Helpful links
 <!-- - [Build your personal website](https://andrea.pasqualini.io/resources/build-your-website) (Andrea Pasqualini) -->

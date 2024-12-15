@@ -16,6 +16,6 @@ My research focuses on macroeconomics, with particular interest in monetary poli
 
 ## Contacts
 Email: [hanfeng.chen@nek.uu.se](mailto:hanfeng.chen@nek.uu.se) <br />
-Twitter: [@hanfeng_c](https://twitter.com/hanfeng_c)
+
 
 
